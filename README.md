@@ -1,18 +1,19 @@
 # E_COMMERCE_PROJETO_DE_QUALITY_ASSURANCE
 
-Nome do projeto
+Nome do projeto  
 E_commerce de roupas dos batatadas
 
-Integrantes
-Gustavo de Carvalho
-Kawe Santos
-Lucas Sena
-Luis Marques
+Integrantes  
+Gustavo de Carvalho 76261  
+Kawe Santos 78815  
+Lucas Sena 75806  
+Luis Marques 77215  
+ 
 
-Tema escolhido
+Tema escolhido  
 E_commerce
 
-Descrição inicial
+Descrição inicial  
 
 Este projeto consiste no desenvolvimento de um E-commerce (Loja Virtual) com foco em simulação de compras online, utilizando a API pública Fake Store para obtenção de produtos.
 
